@@ -1,0 +1,15 @@
+Recent Issues: JAN 1st 05.
+1.> Never start 2 copies at the same time-if you have disabled "Allow One Copy"(doing this may result in Tamper Detection), make sure that the software/reminder is completely loaded, after that you can start another copy if you want.
+
+2.> Always place the protected software in a folder (don't put it in root drive ex: C:\ or D:\, use folder names like "D:\Harry" or "C:\Harry")
+
+3.> In very very rare cicumstances, it may take some time to retrieve hardware fingerprint.
+
+4.> Disable CRC Check for deadly fast startup (not recommended).
+
+5.> Slight ISSUES in Windows 95 (very tiny)
+
+More information can be found in Documentation
+
+-Sriharish
+sriharish@msn.com
